@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+requests
+bs4
+selenium
+beautifulsoup4
+streamlit
+scikit-learn
+pandas-profiling
+xgboost
+category_encoders

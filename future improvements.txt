@@ -1,0 +1,1 @@
+We have dropped one description column - in future can think of some NLP based features / chat bot that can utilize this column info 

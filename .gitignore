@@ -1,0 +1,8 @@
+datasets/
+pages/cosine_sim1.pkl
+pages/cosine_sim2.pkl
+pages/cosine_sim3.pkl
+pages/location_df.pkl
+pages/pipeline.pkl
+pages/df.pkl
+pages/feature_text.pkl
